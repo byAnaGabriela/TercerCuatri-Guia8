@@ -1,4 +1,4 @@
-package cincoTest;
+package cinco.cincoTest;
 
 public class Main {
     public static void main(String[] args) {

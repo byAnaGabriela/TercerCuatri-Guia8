@@ -1,4 +1,4 @@
-package cuatroTest;
+package cuatro.cuatroTest;
 
 public class Main {
     public static void main(String[] args) {
